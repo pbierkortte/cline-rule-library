@@ -28,7 +28,7 @@ A living documentation system that builds persistent context for AI assistants a
 - Obstacle: [Why this matters]
 - Routine: [How this works]
 - Effect: [What this does]
-- Stuff: [Which this has]
+- Scope: [Which this has]
 ```
 
 ❌ Bad:
@@ -39,7 +39,7 @@ A living documentation system that builds persistent context for AI assistants a
 - Obstacle: Not working
 - Routine: Fixed it
 - Effect: Does stuff
-- Stuff: Some things
+- Scope: Some things
 ```
 
 ***
@@ -53,7 +53,7 @@ A living documentation system that builds persistent context for AI assistants a
 - Obstacle: AI agents repeatedly explore same files without retaining learned context between sessions, leading to inefficient redundant analysis
 - Routine: Living registry captures file purposes, relationships, and evolution over time using structured CORES documentation format
 - Effect: Faster decision-making and reduced redundant codebase exploration for both AI and human developers
-- Stuff: File tracking rules, documentation standards, structured entry format for project files
+- Scope: File tracking rules, documentation standards, structured entry format for project files
 
 ### Project Documentation
 
@@ -62,6 +62,6 @@ A living documentation system that builds persistent context for AI assistants a
 - Obstacle: New users need quick understanding of project purpose, setup instructions, and contribution guidelines
 - Routine: Standard project overview with installation steps, usage examples, and development workflow
 - Effect: Enables rapid onboarding and sets expectations for project scope and development practices
-- Stuff: Project description, setup instructions, usage examples, contribution guidelines, license information
+- Scope: Project description, setup instructions, usage examples, contribution guidelines, license information
 
 ---
