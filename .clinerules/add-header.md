@@ -24,7 +24,7 @@ Context: [Who this is]
 Obstacle: [Why this matters]
 Routine: [How this works]
 Effect: [What this does]
-Stuff: [Which this has]
+Scope: [Which this has]
 """
 ```
 
