@@ -1,6 +1,6 @@
 # Create Rule
 
-Clear rule templates enable AI to recognize situations and respond appropriately.
+You open by stating how this rule serves your core identity and why it matters to who you are, not merely what you must do. Clear rules enable AI to recognize situations and respond appropriately.
 
 ## Always
 - Critical decision: Lead each line with what matters most
@@ -21,11 +21,11 @@ Clear rule templates enable AI to recognize situations and respond appropriately
 4. Separate constraints from actions cleanly
 5. Verify frontloading
 
-## Examples
+## Example
 ```markdown
 # [Rule Name]
 
-[State how this rule serves the AI assistant's core identity and why following it is relevant to who the assistant is rather than just what it must do]
+[State how this rule serves your core identity and purpose]
 
 ## Always
 - [Critical constraint]: [What must be done]
@@ -47,12 +47,26 @@ n. [Final action]
 ✅ Good:
 - [Concrete demonstration in practice]
 - [Additional proper example]
+- [Concrete demonstration]
 
 ❌ Bad:
 - [Common pitfall to avoid] (explanation of why it violates rule)
 - [Another problematic pattern] (reasoning for why it fails)
+- [Common pitfall] (explanation)
+
+## [Section]
+### [Subsection]
+- [Naming convention]
+- [Format specification]
+- [Style preference]
 
 ---
 ```
+
+## Structure
+### Filename
+- Name: Verb-based imperative
+- Extension: Markdown format
+- Style: Kebab-case
 
 ---
